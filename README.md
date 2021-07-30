@@ -2,7 +2,7 @@
 
 That's eng version
 
-i did it by cource
+i did it by course
 
 You can try [demo](https://crazy-p1zza.herokuapp.com/) version
 

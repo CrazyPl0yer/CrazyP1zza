@@ -1,8 +1,9 @@
 # Cyber pizza
 
 That's eng version
+i did it by cource
 
-You can try [demo]() version
+You can try [demo](https://crazy-p1zza.herokuapp.com/) version
 
 ## smth for install
 
